@@ -1,0 +1,3726 @@
+[
+  {
+    "full_name": "obra/superpowers",
+    "html_url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 324334
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "html_url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 309128
+  },
+  {
+    "full_name": "deepseek-ai/deepseek-harness",
+    "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 285695
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "html_url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "topics": [
+      "ai-agent",
+      "ai-agents"
+    ],
+    "stargazers_count": 265489
+  },
+  {
+    "full_name": "firecrawl/firecrawl",
+    "html_url": "https://github.com/firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 207216
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "html_url": "https://github.com/DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 197016
+  },
+  {
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "topics": [
+      "agentic-ai",
+      "autonomous-agents"
+    ],
+    "stargazers_count": 188144
+  },
+  {
+    "full_name": "langgenius/dify",
+    "html_url": "https://github.com/langgenius/dify",
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "skills"
+    ],
+    "stargazers_count": 161710
+  },
+  {
+    "full_name": "Snailclimb/JavaGuide",
+    "html_url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "topics": [
+      "agent",
+      "skills"
+    ],
+    "stargazers_count": 159645
+  },
+  {
+    "full_name": "farion1231/cc-switch",
+    "html_url": "https://github.com/farion1231/cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 156463
+  },
+  {
+    "full_name": "Graphify-Labs/graphify",
+    "html_url": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "topics": [
+      "ai-agents",
+      "skills"
+    ],
+    "stargazers_count": 152145
+  },
+  {
+    "full_name": "langchain-ai/langchain",
+    "html_url": "https://github.com/langchain-ai/langchain",
+    "description": "The agent engineering platform.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 149992
+  },
+  {
+    "full_name": "stablyai/orca",
+    "html_url": "https://github.com/stablyai/orca",
+    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 133348
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "html_url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 123528
+  },
+  {
+    "full_name": "JuliusBrussee/caveman",
+    "html_url": "https://github.com/JuliusBrussee/caveman",
+    "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 122216
+  },
+  {
+    "full_name": "browser-use/browser-use",
+    "html_url": "https://github.com/browser-use/browser-use",
+    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 121793
+  },
+  {
+    "full_name": "Leonxlnx/taste-skill",
+    "html_url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 120242
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "html_url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 119830
+  },
+  {
+    "full_name": "thedotmack/claude-mem",
+    "html_url": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "topics": [
+      "ai-agents",
+      "claude-skills"
+    ],
+    "stargazers_count": 119137
+  },
+  {
+    "full_name": "paperclipai/paperclip",
+    "html_url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude-skills"
+    ],
+    "stargazers_count": 116043
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "html_url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 114067
+  },
+  {
+    "full_name": "google-gemini/gemini-cli",
+    "html_url": "https://github.com/google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 109009
+  },
+  {
+    "full_name": "tt-a1i/archify",
+    "html_url": "https://github.com/tt-a1i/archify",
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "topics": [
+      "ai-agents",
+      "claude-skills"
+    ],
+    "stargazers_count": 98862
+  },
+  {
+    "full_name": "infiniflow/ragflow",
+    "html_url": "https://github.com/infiniflow/ragflow",
+    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "stargazers_count": 94561
+  },
+  {
+    "full_name": "OpenHands/OpenHands",
+    "html_url": "https://github.com/OpenHands/OpenHands",
+    "description": "🙌 OpenHands: AI-Driven Development",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 94107
+  },
+  {
+    "full_name": "Egonex-AI/Understand-Anything",
+    "html_url": "https://github.com/Egonex-AI/Understand-Anything",
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 93704
+  },
+  {
+    "full_name": "koala73/worldmonitor",
+    "html_url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 91079
+  },
+  {
+    "full_name": "cheaper-inference/OmniRoute",
+    "html_url": "https://github.com/cheaper-inference/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 89670
+  },
+  {
+    "full_name": "heygen-com/hyperframes",
+    "html_url": "https://github.com/heygen-com/hyperframes",
+    "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 88416
+  },
+  {
+    "full_name": "unclecode/crawl4ai",
+    "html_url": "https://github.com/unclecode/crawl4ai",
+    "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 87690
+  },
+  {
+    "full_name": "datawhalechina/hello-agents",
+    "html_url": "https://github.com/datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 87660
+  },
+  {
+    "full_name": "lobehub/lobehub",
+    "html_url": "https://github.com/lobehub/lobehub",
+    "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+    "topics": [
+      "agent",
+      "skills"
+    ],
+    "stargazers_count": 86014
+  },
+  {
+    "full_name": "bytedance/deer-flow",
+    "html_url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "topics": [
+      "agent",
+      "ai-agents"
+    ],
+    "stargazers_count": 85630
+  },
+  {
+    "full_name": "career-ops-hq/career-ops",
+    "html_url": "https://github.com/career-ops-hq/career-ops",
+    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 84254
+  },
+  {
+    "full_name": "Ebony-Vinyl/dsh-our-free-model",
+    "html_url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 84224
+  },
+  {
+    "full_name": "OpenMontageInc/OpenMontage",
+    "html_url": "https://github.com/OpenMontageInc/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "topics": [
+      "agent",
+      "agentic-ai"
+    ],
+    "stargazers_count": 82486
+  },
+  {
+    "full_name": "ruvnet/ruflo",
+    "html_url": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 82294
+  },
+  {
+    "full_name": "microsoft/ai-agents-for-beginners",
+    "html_url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "description": "18 Lessons to Get Started Building AI Agents",
+    "topics": [
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "stargazers_count": 80792
+  },
+  {
+    "full_name": "shareAI-lab/learn-claude-code",
+    "html_url": "https://github.com/shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "topics": [
+      "agent",
+      "ai-agent"
+    ],
+    "stargazers_count": 80750
+  },
+  {
+    "full_name": "headroomlabs-ai/headroom",
+    "html_url": "https://github.com/headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 80565
+  },
+  {
+    "full_name": "dair-ai/Prompt-Engineering-Guide",
+    "html_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "topics": [
+      "agent",
+      "ai-agents"
+    ],
+    "stargazers_count": 80302
+  },
+  {
+    "full_name": "ComposioHQ/awesome-claude-skills",
+    "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "topics": [
+      "ai-agents",
+      "skill"
+    ],
+    "stargazers_count": 80088
+  },
+  {
+    "full_name": "unslothai/unsloth",
+    "html_url": "https://github.com/unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 80008
+  },
+  {
+    "full_name": "rohitg00/ai-engineering-from-scratch",
+    "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 79873
+  },
+  {
+    "full_name": "hugohe3/ppt-master",
+    "html_url": "https://github.com/hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 79370
+  },
+  {
+    "full_name": "hiyouga/LlamaFactory",
+    "html_url": "https://github.com/hiyouga/LlamaFactory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 76219
+  },
+  {
+    "full_name": "thedaviddias/Front-End-Checklist",
+    "html_url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
+    "topics": [
+      "ai-agent",
+      "ai-agents"
+    ],
+    "stargazers_count": 74799
+  },
+  {
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 73750
+  },
+  {
+    "full_name": "ai-job-search-dev/ai-job-search",
+    "html_url": "https://github.com/ai-job-search-dev/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 73059
+  },
+  {
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 72460
+  },
+  {
+    "full_name": "FoundationAgents/MetaGPT",
+    "html_url": "https://github.com/FoundationAgents/MetaGPT",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 71418
+  },
+  {
+    "full_name": "daytonaio/daytona",
+    "html_url": "https://github.com/daytonaio/daytona",
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 71286
+  },
+  {
+    "full_name": "code-yeongyu/oh-my-openagent",
+    "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "topics": [
+      "ai-agents",
+      "claude-skills"
+    ],
+    "stargazers_count": 71067
+  },
+  {
+    "full_name": "mem0ai/mem0",
+    "html_url": "https://github.com/mem0ai/mem0",
+    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 69357
+  },
+  {
+    "full_name": "shanraisshan/claude-code-best-practice",
+    "html_url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "topics": [
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "stargazers_count": 69328
+  },
+  {
+    "full_name": "Mintplex-Labs/anything-llm",
+    "html_url": "https://github.com/Mintplex-Labs/anything-llm",
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+    "topics": [
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "stargazers_count": 68521
+  },
+  {
+    "full_name": "vectorize-io/hindsight",
+    "html_url": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 62720
+  },
+  {
+    "full_name": "coreyhaines31/marketingskills",
+    "html_url": "https://github.com/coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "topics": [
+      "ai-agents",
+      "claude-skills"
+    ],
+    "stargazers_count": 62100
+  },
+  {
+    "full_name": "ayghri/i-have-adhd",
+    "html_url": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 61986
+  },
+  {
+    "full_name": "microsoft/autogen",
+    "html_url": "https://github.com/microsoft/autogen",
+    "description": "A programming framework for agentic AI",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 61963
+  },
+  {
+    "full_name": "HKUDS/DeepTutor",
+    "html_url": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "topics": [
+      "ai-agents",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 61683
+  },
+  {
+    "full_name": "crewAIInc/crewAI",
+    "html_url": "https://github.com/crewAIInc/crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 61185
+  },
+  {
+    "full_name": "bojieli/ai-agent-book",
+    "html_url": "https://github.com/bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "topics": [
+      "agent",
+      "ai-agent"
+    ],
+    "stargazers_count": 59345
+  },
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 58133
+  },
+  {
+    "full_name": "aaif-goose/goose",
+    "html_url": "https://github.com/aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 56886
+  },
+  {
+    "full_name": "FlowiseAI/Flowise",
+    "html_url": "https://github.com/FlowiseAI/Flowise",
+    "description": "Build AI Agents, Visually",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 55587
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "html_url": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 55483
+  },
+  {
+    "full_name": "CherryHQ/cherry-studio",
+    "html_url": "https://github.com/CherryHQ/cherry-studio",
+    "description": "Your AI workspace for models, agents, and productivity.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 53764
+  },
+  {
+    "full_name": "obsidianmd/obsidian-skills",
+    "html_url": "https://github.com/obsidianmd/obsidian-skills",
+    "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 53491
+  },
+  {
+    "full_name": "herdrdev/herdr",
+    "html_url": "https://github.com/herdrdev/herdr",
+    "description": "the runtime your coding agents live on",
+    "topics": [
+      "agent",
+      "ai-agents"
+    ],
+    "stargazers_count": 52383
+  },
+  {
+    "full_name": "huginn/huginn",
+    "html_url": "https://github.com/huginn/huginn",
+    "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 50610
+  },
+  {
+    "full_name": "HKUDS/nanobot",
+    "html_url": "https://github.com/HKUDS/nanobot",
+    "description": "Your lightweight open-source personal agent.",
+    "topics": [
+      "ai-agent",
+      "ai-agents"
+    ],
+    "stargazers_count": 50277
+  },
+  {
+    "full_name": "sickn33/agentic-awesome-skills",
+    "html_url": "https://github.com/sickn33/agentic-awesome-skills",
+    "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 50166
+  },
+  {
+    "full_name": "jeecgboot/JeecgBoot",
+    "html_url": "https://github.com/jeecgboot/JeecgBoot",
+    "description": "一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型",
+    "topics": [
+      "agent",
+      "skills"
+    ],
+    "stargazers_count": 48585
+  },
+  {
+    "full_name": "zhayujie/CowAgent",
+    "html_url": "https://github.com/zhayujie/CowAgent",
+    "description": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "skills"
+    ],
+    "stargazers_count": 48045
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "html_url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 48002
+  },
+  {
+    "full_name": "gogs/gogs",
+    "html_url": "https://github.com/gogs/gogs",
+    "description": "The painless way to host your own Git service",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 47987
+  },
+  {
+    "full_name": "AstrBotDevs/AstrBot",
+    "html_url": "https://github.com/AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 47364
+  },
+  {
+    "full_name": "siyuan-note/siyuan",
+    "html_url": "https://github.com/siyuan-note/siyuan",
+    "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+    "topics": [
+      "agentic-ai",
+      "ai-agent"
+    ],
+    "stargazers_count": 47345
+  },
+  {
+    "full_name": "langchain-ai/langgraph",
+    "html_url": "https://github.com/langchain-ai/langgraph",
+    "description": "Build resilient agents.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 45287
+  },
+  {
+    "full_name": "agno-agi/agno",
+    "html_url": "https://github.com/agno-agi/agno",
+    "description": "The self-managing agent platform",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 43267
+  },
+  {
+    "full_name": "tinyhumansai/openhuman",
+    "html_url": "https://github.com/tinyhumansai/openhuman",
+    "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 42818
+  },
+  {
+    "full_name": "wshobson/agents",
+    "html_url": "https://github.com/wshobson/agents",
+    "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "claude-skills"
+    ],
+    "stargazers_count": 42811
+  },
+  {
+    "full_name": "codewhale-hq/Codewhale",
+    "html_url": "https://github.com/codewhale-hq/Codewhale",
+    "description": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 41197
+  },
+  {
+    "full_name": "Yeachan-Heo/oh-my-claudecode",
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "topics": [
+      "ai-agents",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 41017
+  },
+  {
+    "full_name": "pingcap/tidb",
+    "html_url": "https://github.com/pingcap/tidb",
+    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 40767
+  },
+  {
+    "full_name": "VectifyAI/PageIndex",
+    "html_url": "https://github.com/VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "topics": [
+      "agentic-ai",
+      "ai-agents"
+    ],
+    "stargazers_count": 40751
+  },
+  {
+    "full_name": "Donchitos/Claude-Code-Game-Studios",
+    "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 40651
+  },
+  {
+    "full_name": "ashishpatel26/500-AI-Agents-Projects",
+    "html_url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "topics": [
+      "ai-agents"
+    ],
+    "stargazers_count": 40579
+  },
+  {
+    "full_name": "2noise/ChatTTS",
+    "html_url": "https://github.com/2noise/ChatTTS",
+    "description": "A generative speech model for daily dialogue.",
+    "topics": [
+      "agent",
+      "llm-agent"
+    ],
+    "stargazers_count": 40038
+  },
+  {
+    "full_name": "can1357/oh-my-pi",
+    "html_url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 39687
+  },
+  {
+    "full_name": "JCodesMore/ai-website-cloner-template",
+    "html_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 39645
+  },
+  {
+    "full_name": "bytedance/UI-TARS-desktop",
+    "html_url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 39598
+  },
+  {
+    "full_name": "AlexsJones/llmfit",
+    "html_url": "https://github.com/AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 39247
+  },
+  {
+    "full_name": "CopilotKit/CopilotKit",
+    "html_url": "https://github.com/CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agent"
+    ],
+    "stargazers_count": 38900
+  },
+  {
+    "full_name": "alchaincyf/nuwa-skill",
+    "html_url": "https://github.com/alchaincyf/nuwa-skill",
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 38836
+  },
+  {
+    "full_name": "HKUDS/Vibe-Trading",
+    "html_url": "https://github.com/HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 38714
+  },
+  {
+    "full_name": "khoj-ai/khoj",
+    "html_url": "https://github.com/khoj-ai/khoj",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 38212
+  },
+  {
+    "full_name": "agentscope-ai/QwenPaw",
+    "html_url": "https://github.com/agentscope-ai/QwenPaw",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "skills"
+    ],
+    "stargazers_count": 38112
+  },
+  {
+    "full_name": "Tencent/WeKnora",
+    "html_url": "https://github.com/Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 38037
+  },
+  {
+    "full_name": "alibaba/arthas",
+    "html_url": "https://github.com/alibaba/arthas",
+    "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 37625
+  },
+  {
+    "full_name": "1Panel-dev/1Panel",
+    "html_url": "https://github.com/1Panel-dev/1Panel",
+    "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 37505
+  },
+  {
+    "full_name": "VoltAgent/awesome-agent-skills",
+    "html_url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 37456
+  },
+  {
+    "full_name": "continuedev/continue",
+    "html_url": "https://github.com/continuedev/continue",
+    "description": "open-source coding agent",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 36540
+  },
+  {
+    "full_name": "agentscope-ai/agentscope",
+    "html_url": "https://github.com/agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust.",
+    "topics": [
+      "agent",
+      "llm-agent"
+    ],
+    "stargazers_count": 36502
+  },
+  {
+    "full_name": "reworkd/AgentGPT",
+    "html_url": "https://github.com/reworkd/AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 36268
+  },
+  {
+    "full_name": "esengine/DeepSeek-Reasonix",
+    "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "topics": [
+      "agent",
+      "ai-agent"
+    ],
+    "stargazers_count": 36078
+  },
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 36058
+  },
+  {
+    "full_name": "huggingface/agents-course",
+    "html_url": "https://github.com/huggingface/agents-course",
+    "description": "This repository contains the Hugging Face Agents Course. ",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 35324
+  },
+  {
+    "full_name": "datawhalechina/happy-llm",
+    "html_url": "https://github.com/datawhalechina/happy-llm",
+    "description": "📚 从零开始构建大模型",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 35054
+  },
+  {
+    "full_name": "vxcontrol/pentagi",
+    "html_url": "https://github.com/vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 34826
+  },
+  {
+    "full_name": "Twigpine/openclaude",
+    "html_url": "https://github.com/Twigpine/openclaude",
+    "description": "runs anywhere. uses anything",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 34492
+  },
+  {
+    "full_name": "iOfficeAI/AionUi",
+    "html_url": "https://github.com/iOfficeAI/AionUi",
+    "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
+    "topics": [
+      "ai-agent",
+      "skills"
+    ],
+    "stargazers_count": 34443
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "html_url": "https://github.com/mksglu/context-mode",
+    "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 34404
+  },
+  {
+    "full_name": "Fincept-Corporation/FinceptTerminal",
+    "html_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 34096
+  },
+  {
+    "full_name": "zeroclaw-labs/zeroclaw",
+    "html_url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 33580
+  },
+  {
+    "full_name": "alibaba/nacos",
+    "html_url": "https://github.com/alibaba/nacos",
+    "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+    "topics": [
+      "agent",
+      "skills"
+    ],
+    "stargazers_count": 33533
+  },
+  {
+    "full_name": "iOfficeAI/OfficeCLI",
+    "html_url": "https://github.com/iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "topics": [
+      "agent",
+      "skills"
+    ],
+    "stargazers_count": 33528
+  },
+  {
+    "full_name": "trycua/cua",
+    "html_url": "https://github.com/trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+    "topics": [
+      "agent",
+      "ai-agent"
+    ],
+    "stargazers_count": 32798
+  },
+  {
+    "full_name": "feder-cr/Jobs_Applier_AI_Agent",
+    "html_url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+    "description": "AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "autonomous-agents"
+    ],
+    "stargazers_count": 32611
+  },
+  {
+    "full_name": "googleworkspace/cli",
+    "html_url": "https://github.com/googleworkspace/cli",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 32452
+  },
+  {
+    "full_name": "oraios/serena",
+    "html_url": "https://github.com/oraios/serena",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 31622
+  },
+  {
+    "full_name": "ComposioHQ/composio",
+    "html_url": "https://github.com/ComposioHQ/composio",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 31240
+  },
+  {
+    "full_name": "jackwener/OpenCLI",
+    "html_url": "https://github.com/jackwener/OpenCLI",
+    "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 31233
+  },
+  {
+    "full_name": "hypit-ai/hypit",
+    "html_url": "https://github.com/hypit-ai/hypit",
+    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 31145
+  },
+  {
+    "full_name": "nanocoai/nanoclaw",
+    "html_url": "https://github.com/nanocoai/nanoclaw",
+    "description": "Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 31145
+  },
+  {
+    "full_name": "TencentCloud/TencentDB-Agent-Memory",
+    "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "topics": [
+      "agent",
+      "ai-agent"
+    ],
+    "stargazers_count": 31105
+  },
+  {
+    "full_name": "e2b-dev/awesome-ai-agents",
+    "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "description": "A list of AI autonomous agents",
+    "topics": [
+      "agent",
+      "autonomous-agents"
+    ],
+    "stargazers_count": 31032
+  },
+  {
+    "full_name": "QwenLM/qwen-code",
+    "html_url": "https://github.com/QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 30878
+  },
+  {
+    "full_name": "assafelovic/gpt-researcher",
+    "html_url": "https://github.com/assafelovic/gpt-researcher",
+    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 30869
+  },
+  {
+    "full_name": "alchaincyf/huashu-design",
+    "html_url": "https://github.com/alchaincyf/huashu-design",
+    "description": "Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 92 种带样张的风格库 · 该是图的地方放真图 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 30505
+  },
+  {
+    "full_name": "ccch1mneyyy/dsh-Go",
+    "html_url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 30335
+  },
+  {
+    "full_name": "alirezarezvani/claude-skills",
+    "html_url": "https://github.com/alirezarezvani/claude-skills",
+    "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+    "topics": [
+      "agentic-ai",
+      "claude-skills"
+    ],
+    "stargazers_count": 30299
+  },
+  {
+    "full_name": "harvard-edge/cs249r_book",
+    "html_url": "https://github.com/harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 30295
+  },
+  {
+    "full_name": "op7418/guizang-ppt-skill",
+    "html_url": "https://github.com/op7418/guizang-ppt-skill",
+    "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+    "topics": [
+      "ai-agent",
+      "skill",
+      "skills"
+    ],
+    "stargazers_count": 30279
+  },
+  {
+    "full_name": "labring/FastGPT",
+    "html_url": "https://github.com/labring/FastGPT",
+    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 30084
+  },
+  {
+    "full_name": "alibaba/page-agent",
+    "html_url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 29739
+  },
+  {
+    "full_name": "charmbracelet/crush",
+    "html_url": "https://github.com/charmbracelet/crush",
+    "description": "Glamourous agentic coding for all 💘",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 29166
+  },
+  {
+    "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "html_url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "description": "Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers ",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 28888
+  },
+  {
+    "full_name": "BloopAI/vibe-kanban",
+    "html_url": "https://github.com/BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 28791
+  },
+  {
+    "full_name": "OthmanAdi/planning-with-files",
+    "html_url": "https://github.com/OthmanAdi/planning-with-files",
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+    "topics": [
+      "autonomous-agents",
+      "claude-skills",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 28197
+  },
+  {
+    "full_name": "JimLiu/baoyu-skills",
+    "html_url": "https://github.com/JimLiu/baoyu-skills",
+    "description": null,
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 27808
+  },
+  {
+    "full_name": "Fosowl/agenticSeek",
+    "html_url": "https://github.com/Fosowl/agenticSeek",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+    "topics": [
+      "agentic-ai",
+      "autonomous-agents"
+    ],
+    "stargazers_count": 27691
+  },
+  {
+    "full_name": "NVIDIA/SkillSpector",
+    "html_url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 27323
+  },
+  {
+    "full_name": "deepset-ai/haystack",
+    "html_url": "https://github.com/deepset-ai/haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 27082
+  },
+  {
+    "full_name": "titanwings/distilly",
+    "html_url": "https://github.com/titanwings/distilly",
+    "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "claude-skills",
+      "llm-agent"
+    ],
+    "stargazers_count": 26788
+  },
+  {
+    "full_name": "zai-org/Open-AutoGLM",
+    "html_url": "https://github.com/zai-org/Open-AutoGLM",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 26652
+  },
+  {
+    "full_name": "walkinglabs/learn-harness-engineering",
+    "html_url": "https://github.com/walkinglabs/learn-harness-engineering",
+    "description": "Harness engineering beginner tutorial, from 0 to 1",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agent"
+    ],
+    "stargazers_count": 25888
+  },
+  {
+    "full_name": "activepieces/activepieces",
+    "html_url": "https://github.com/activepieces/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 25684
+  },
+  {
+    "full_name": "letta-ai/letta",
+    "html_url": "https://github.com/letta-ai/letta",
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 25518
+  },
+  {
+    "full_name": "flipped-aurora/gin-vue-admin",
+    "html_url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 25165
+  },
+  {
+    "full_name": "NirDiamant/GenAI_Agents",
+    "html_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+    "topics": [
+      "agentic-ai",
+      "autonomous-agents",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 25090
+  },
+  {
+    "full_name": "nocobase/nocobase",
+    "html_url": "https://github.com/nocobase/nocobase",
+    "description": "NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent"
+    ],
+    "stargazers_count": 24981
+  },
+  {
+    "full_name": "google/skills",
+    "html_url": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 24557
+  },
+  {
+    "full_name": "AccumulateMore/CV",
+    "html_url": "https://github.com/AccumulateMore/CV",
+    "description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+    "topics": [
+      "agent"
+    ],
+    "stargazers_count": 24334
+  },
+  {
+    "full_name": "citrolabs/ego-lite",
+    "html_url": "https://github.com/citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "topics": [
+      "ai-agent",
+      "skills"
+    ],
+    "stargazers_count": 24063
+  },
+  {
+    "full_name": "1Panel-dev/MaxKB",
+    "html_url": "https://github.com/1Panel-dev/MaxKB",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 23187
+  },
+  {
+    "full_name": "dipakkr/awesome-ai-engineering",
+    "html_url": "https://github.com/dipakkr/awesome-ai-engineering",
+    "description": "🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 22615
+  },
+  {
+    "full_name": "KKKKhazix/khazix-skills",
+    "html_url": "https://github.com/KKKKhazix/khazix-skills",
+    "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 22467
+  },
+  {
+    "full_name": "google/adk-python",
+    "html_url": "https://github.com/google/adk-python",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "topics": [
+      "agentic-ai",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 22318
+  },
+  {
+    "full_name": "liyupi/ai-guide",
+    "html_url": "https://github.com/liyupi/ai-guide",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 22312
+  },
+  {
+    "full_name": "latent-spaces/brag",
+    "html_url": "https://github.com/latent-spaces/brag",
+    "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 22262
+  },
+  {
+    "full_name": "google/elephant-goldfish-model",
+    "html_url": "https://github.com/google/elephant-goldfish-model",
+    "description": "Open-source plugin for designing and reviewing software with agents",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 22238
+  },
+  {
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 22150
+  },
+  {
+    "full_name": "teableio/teable",
+    "html_url": "https://github.com/teableio/teable",
+    "description": "✨ AI Spreadsheet for Business",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 22010
+  },
+  {
+    "full_name": "1jehuang/jcode",
+    "html_url": "https://github.com/1jehuang/jcode",
+    "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 21991
+  },
+  {
+    "full_name": "NirDiamant/agents-towards-production",
+    "html_url": "https://github.com/NirDiamant/agents-towards-production",
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+    "topics": [
+      "agentic-ai",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 21940
+  },
+  {
+    "full_name": "eclipse-theia/theia",
+    "html_url": "https://github.com/eclipse-theia/theia",
+    "description": "Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 21783
+  },
+  {
+    "full_name": "teng-lin/notebooklm-py",
+    "html_url": "https://github.com/teng-lin/notebooklm-py",
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 20342
+  },
+  {
+    "full_name": "camel-ai/owl",
+    "html_url": "https://github.com/camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 20195
+  },
+  {
+    "full_name": "rocketride-org/rocketride-server",
+    "html_url": "https://github.com/rocketride-org/rocketride-server",
+    "description": "RocketRide is an open source AI meta-harness with the only enterprise-grade runtime built on C++. Build, test and publish durable agents that scale in production.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 19992
+  },
+  {
+    "full_name": "keploy/keploy",
+    "html_url": "https://github.com/keploy/keploy",
+    "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 19955
+  },
+  {
+    "full_name": "browser-use/browser-harness",
+    "html_url": "https://github.com/browser-use/browser-harness",
+    "description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 19204
+  },
+  {
+    "full_name": "microsoft/agent-lightning",
+    "html_url": "https://github.com/microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 18994
+  },
+  {
+    "full_name": "emcie-co/parlant",
+    "html_url": "https://github.com/emcie-co/parlant",
+    "description": "Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 18339
+  },
+  {
+    "full_name": "elementalsouls/Claude-BugHunter",
+    "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 18229
+  },
+  {
+    "full_name": "camel-ai/camel",
+    "html_url": "https://github.com/camel-ai/camel",
+    "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 18052
+  },
+  {
+    "full_name": "opensandbox-group/OpenSandbox",
+    "html_url": "https://github.com/opensandbox-group/OpenSandbox",
+    "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 17813
+  },
+  {
+    "full_name": "TransformerOptimus/SuperAGI",
+    "html_url": "https://github.com/TransformerOptimus/SuperAGI",
+    "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 17753
+  },
+  {
+    "full_name": "leon-ai/leon",
+    "html_url": "https://github.com/leon-ai/leon",
+    "description": "🧠 Leon is your open-source personal assistant.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 17705
+  },
+  {
+    "full_name": "composio-community/awesome-codex-skills",
+    "html_url": "https://github.com/composio-community/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 17395
+  },
+  {
+    "full_name": "xbtlin/ai-berkshire",
+    "html_url": "https://github.com/xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 17216
+  },
+  {
+    "full_name": "cft0808/edict",
+    "html_url": "https://github.com/cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 17114
+  },
+  {
+    "full_name": "kubesphere/kubesphere",
+    "html_url": "https://github.com/kubesphere/kubesphere",
+    "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 17088
+  },
+  {
+    "full_name": "HKUDS/DeepCode",
+    "html_url": "https://github.com/HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 16860
+  },
+  {
+    "full_name": "browser-use/web-ui",
+    "html_url": "https://github.com/browser-use/web-ui",
+    "description": "🖥️ Run AI Agent in your browser.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 16665
+  },
+  {
+    "full_name": "BaaRai/ARTEX",
+    "html_url": "https://github.com/BaaRai/ARTEX",
+    "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 16511
+  },
+  {
+    "full_name": "nidhinjs/prompt-master",
+    "html_url": "https://github.com/nidhinjs/prompt-master",
+    "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 16251
+  },
+  {
+    "full_name": "raga-ai-hub/RagaAI-Catalyst",
+    "html_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 16195
+  },
+  {
+    "full_name": "budtmo/docker-android",
+    "html_url": "https://github.com/budtmo/docker-android",
+    "description": "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 16191
+  },
+  {
+    "full_name": "kubeflow/kubeflow",
+    "html_url": "https://github.com/kubeflow/kubeflow",
+    "description": "The Cloud Native AI Platform",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 15975
+  },
+  {
+    "full_name": "travisvn/awesome-claude-skills",
+    "html_url": "https://github.com/travisvn/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 15913
+  },
+  {
+    "full_name": "eigent-ai/eigent",
+    "html_url": "https://github.com/eigent-ai/eigent",
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "topics": [
+      "agentic-ai",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 15869
+  },
+  {
+    "full_name": "ConardLi/garden-skills",
+    "html_url": "https://github.com/ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 15669
+  },
+  {
+    "full_name": "corsairdev/corsair",
+    "html_url": "https://github.com/corsairdev/corsair",
+    "description": "Connect your users to their apps",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 15625
+  },
+  {
+    "full_name": "NanmiCoder/cc-haha",
+    "html_url": "https://github.com/NanmiCoder/cc-haha",
+    "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 15526
+  },
+  {
+    "full_name": "yusufkaraaslan/Skill_Seekers",
+    "html_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 15358
+  },
+  {
+    "full_name": "millionco/react-doctor",
+    "html_url": "https://github.com/millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 15180
+  },
+  {
+    "full_name": "OrchestratorInc/agent-orchestrator",
+    "html_url": "https://github.com/OrchestratorInc/agent-orchestrator",
+    "description": "Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 15030
+  },
+  {
+    "full_name": "e2b-dev/E2B",
+    "html_url": "https://github.com/e2b-dev/E2B",
+    "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 14971
+  },
+  {
+    "full_name": "waooAI/waoowaoo",
+    "html_url": "https://github.com/waooAI/waoowaoo",
+    "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 14968
+  },
+  {
+    "full_name": "casdoor/casdoor",
+    "html_url": "https://github.com/casdoor/casdoor",
+    "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 14927
+  },
+  {
+    "full_name": "Orchestra-Research/AI-Research-SKILLs",
+    "html_url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+    "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 14753
+  },
+  {
+    "full_name": "NevaMind-AI/memU",
+    "html_url": "https://github.com/NevaMind-AI/memU",
+    "description": "Personal memory across agents",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 14635
+  },
+  {
+    "full_name": "fathah/hermes-desktop",
+    "html_url": "https://github.com/fathah/hermes-desktop",
+    "description": "Desktop Companion for Hermes Agent",
+    "topics": [
+      "ai-agent",
+      "autonomous-agents"
+    ],
+    "stargazers_count": 14618
+  },
+  {
+    "full_name": "krillinai/OpenCreator",
+    "html_url": "https://github.com/krillinai/OpenCreator",
+    "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, and edits with Agents in one place. For your Social Media like YouTube, TikTok, Instagram, etc.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 14499
+  },
+  {
+    "full_name": "backnotprop/plannotator",
+    "html_url": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 14498
+  },
+  {
+    "full_name": "lsdefine/GenericAgent",
+    "html_url": "https://github.com/lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "topics": [
+      "ai-agent",
+      "llm-agent"
+    ],
+    "stargazers_count": 14442
+  },
+  {
+    "full_name": "EverMind-AI/EverOS",
+    "html_url": "https://github.com/EverMind-AI/EverOS",
+    "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+    "topics": [
+      "agentic-ai",
+      "skills"
+    ],
+    "stargazers_count": 13974
+  },
+  {
+    "full_name": "OpenByteInc/QuantDinger",
+    "html_url": "https://github.com/OpenByteInc/QuantDinger",
+    "description": "The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, MCP, and multi-tenant SaaS in one auditable stack.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 13920
+  },
+  {
+    "full_name": "handsomestWei/patent-disclosure-skill",
+    "html_url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 13753
+  },
+  {
+    "full_name": "zhouxiaoka/autoclip",
+    "html_url": "https://github.com/zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 13705
+  },
+  {
+    "full_name": "helloianneo/ian-xiaohei-illustrations",
+    "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "topics": [
+      "ai-agent"
+    ],
+    "stargazers_count": 13323
+  },
+  {
+    "full_name": "HKUSTDial/Supervisor-Skills",
+    "html_url": "https://github.com/HKUSTDial/Supervisor-Skills",
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 13293
+  },
+  {
+    "full_name": "genspark-ai/genoffice",
+    "html_url": "https://github.com/genspark-ai/genoffice",
+    "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+    "topics": [
+      "ai-agent",
+      "skills"
+    ],
+    "stargazers_count": 12788
+  },
+  {
+    "full_name": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "html_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "description": "Pocket Flow: Codebase to Tutorial",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 12770
+  },
+  {
+    "full_name": "Jeffallan/claude-skills",
+    "html_url": "https://github.com/Jeffallan/claude-skills",
+    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 12493
+  },
+  {
+    "full_name": "MemTensor/MemOS",
+    "html_url": "https://github.com/MemTensor/MemOS",
+    "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+    "topics": [
+      "agentic-ai",
+      "skills"
+    ],
+    "stargazers_count": 12483
+  },
+  {
+    "full_name": "ChenLiu-1996/figures4papers",
+    "html_url": "https://github.com/ChenLiu-1996/figures4papers",
+    "description": "My Python scripts to make high-quality figures for publications in top AI conferences and journals.",
+    "topics": [
+      "skill",
+      "skills"
+    ],
+    "stargazers_count": 12403
+  },
+  {
+    "full_name": "TencentCloud/Octop",
+    "html_url": "https://github.com/TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 12386
+  },
+  {
+    "full_name": "trimstray/test-your-sysadmin-skills",
+    "html_url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "description": "A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 11912
+  },
+  {
+    "full_name": "cobusgreyling/loop-engineering",
+    "html_url": "https://github.com/cobusgreyling/loop-engineering",
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 11821
+  },
+  {
+    "full_name": "SnailSploit/Claude-Red",
+    "html_url": "https://github.com/SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 11408
+  },
+  {
+    "full_name": "spinabot/brigade",
+    "html_url": "https://github.com/spinabot/brigade",
+    "description": "Brigade — Your personal intelligence, built enterprise-grade",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 11390
+  },
+  {
+    "full_name": "The-Pocket/PocketFlow",
+    "html_url": "https://github.com/The-Pocket/PocketFlow",
+    "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+    "topics": [
+      "agentic-ai",
+      "llm-agent"
+    ],
+    "stargazers_count": 11343
+  },
+  {
+    "full_name": "ibelick/ui-skills",
+    "html_url": "https://github.com/ibelick/ui-skills",
+    "description": "Skills for Design Engineers",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 11325
+  },
+  {
+    "full_name": "aden-hive/hive",
+    "html_url": "https://github.com/aden-hive/hive",
+    "description": "Multi-Agent Harness for Production AI",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 11167
+  },
+  {
+    "full_name": "bytebot-ai/bytebot",
+    "html_url": "https://github.com/bytebot-ai/bytebot",
+    "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+    "topics": [
+      "agentic-ai"
+    ],
+    "stargazers_count": 11072
+  },
+  {
+    "full_name": "mcp-use/mcp-use",
+    "html_url": "https://github.com/mcp-use/mcp-use",
+    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 11004
+  },
+  {
+    "full_name": "chuspeeism/dashi-ppt-skill",
+    "html_url": "https://github.com/chuspeeism/dashi-ppt-skill",
+    "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 10981
+  },
+  {
+    "full_name": "x-hw/amazing-qr",
+    "html_url": "https://github.com/x-hw/amazing-qr",
+    "description": "💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 10861
+  },
+  {
+    "full_name": "alchaincyf/zhangxuefeng-skill",
+    "html_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "topics": [
+      "claude-skills",
+      "skills"
+    ],
+    "stargazers_count": 10814
+  },
+  {
+    "full_name": "mobile-next/mobile-mcp",
+    "html_url": "https://github.com/mobile-next/mobile-mcp",
+    "description": "Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 10813
+  },
+  {
+    "full_name": "android/skills",
+    "html_url": "https://github.com/android/skills",
+    "description": null,
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 10707
+  },
+  {
+    "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 10643
+  },
+  {
+    "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+    "html_url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "description": "Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.",
+    "topics": [
+      "skills"
+    ],
+    "stargazers_count": 10410
+  },
+  {
+    "full_name": "Jakeschincariol/replica-skill",
+    "html_url": "https://github.com/Jakeschincariol/replica-skill",
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 10357
+  },
+  {
+    "full_name": "GetBindu/Bindu",
+    "html_url": "https://github.com/GetBindu/Bindu",
+    "description": "Bindu: The identity, communication, and payments layer for AI agents.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 9960
+  },
+  {
+    "full_name": "anbeime/skill",
+    "html_url": "https://github.com/anbeime/skill",
+    "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.",
+    "topics": [
+      "claude-skills",
+      "skill"
+    ],
+    "stargazers_count": 9818
+  },
+  {
+    "full_name": "HarnessMD/munder-difflin",
+    "html_url": "https://github.com/HarnessMD/munder-difflin",
+    "description": "Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 9699
+  },
+  {
+    "full_name": "openclaw/clawhub",
+    "html_url": "https://github.com/openclaw/clawhub",
+    "description": "Skill + Plugin Registry for OpenClaw",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 9559
+  },
+  {
+    "full_name": "Orkas-AI/Orkas",
+    "html_url": "https://github.com/Orkas-AI/Orkas",
+    "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 9550
+  },
+  {
+    "full_name": "strands-agents/harness-sdk",
+    "html_url": "https://github.com/strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+    "topics": [
+      "autonomous-agents",
+      "llm-agent",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 9274
+  },
+  {
+    "full_name": "activeloopai/deeplake",
+    "html_url": "https://github.com/activeloopai/deeplake",
+    "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 9273
+  },
+  {
+    "full_name": "Jakeschincariol/day-trader-skill",
+    "html_url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 9216
+  },
+  {
+    "full_name": "google/adk-go",
+    "html_url": "https://github.com/google/adk-go",
+    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 8990
+  },
+  {
+    "full_name": "mvschwarz/openrig",
+    "html_url": "https://github.com/mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 8951
+  },
+  {
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
+    "topics": [
+      "claude-skills",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 8853
+  },
+  {
+    "full_name": "zenstory-ai/oh-story-claudecode",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode",
+    "description": "网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code / Codex 等 ｜ Agent skills for writing web novels",
+    "topics": [
+      "claude-skills",
+      "skill"
+    ],
+    "stargazers_count": 8840
+  },
+  {
+    "full_name": "EvoMap/evolver",
+    "html_url": "https://github.com/EvoMap/evolver",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 8749
+  },
+  {
+    "full_name": "TeamWiseFlow/xiaobei",
+    "html_url": "https://github.com/TeamWiseFlow/xiaobei",
+    "description": "为OPC/中小微企业量身打造的自媒体获客智能体",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 8745
+  },
+  {
+    "full_name": "irinabuht12-oss/marketing-skills",
+    "html_url": "https://github.com/irinabuht12-oss/marketing-skills",
+    "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 8402
+  },
+  {
+    "full_name": "gosom/google-maps-scraper",
+    "html_url": "https://github.com/gosom/google-maps-scraper",
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 8331
+  },
+  {
+    "full_name": "RayVentura/ShortGPT",
+    "html_url": "https://github.com/RayVentura/ShortGPT",
+    "description": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 8195
+  },
+  {
+    "full_name": "deanpeters/Product-Manager-Skills",
+    "html_url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 8124
+  },
+  {
+    "full_name": "ningzimu/codex-ppt-skill",
+    "html_url": "https://github.com/ningzimu/codex-ppt-skill",
+    "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 8109
+  },
+  {
+    "full_name": "Upsonic/Upsonic",
+    "html_url": "https://github.com/Upsonic/Upsonic",
+    "description": "Build autonomous AI agents in Python.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 7968
+  },
+  {
+    "full_name": "ValueCell-ai/ClawX",
+    "html_url": "https://github.com/ValueCell-ai/ClawX",
+    "description": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 7589
+  },
+  {
+    "full_name": "kaankiziltug/logo-design-skill",
+    "html_url": "https://github.com/kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 7536
+  },
+  {
+    "full_name": "kaomei/stickman-video-director",
+    "html_url": "https://github.com/kaomei/stickman-video-director",
+    "description": "AI Agent Skill (Claude Code, Codex & more): Turn any script into animated stickman videos for faceless YouTube, Shorts & TikTok. 14+ styles with voiceover, captions & SFX. Free & open-source (MIT).",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 7526
+  },
+  {
+    "full_name": "alchaincyf/huashu-art-motion",
+    "html_url": "https://github.com/alchaincyf/huashu-art-motion",
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 7486
+  },
+  {
+    "full_name": "kyegomez/swarms",
+    "html_url": "https://github.com/kyegomez/swarms",
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 7390
+  },
+  {
+    "full_name": "ZSeven-W/openpencil",
+    "html_url": "https://github.com/ZSeven-W/openpencil",
+    "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 7322
+  },
+  {
+    "full_name": "Mai-with-u/MaiBot",
+    "html_url": "https://github.com/Mai-with-u/MaiBot",
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 7105
+  },
+  {
+    "full_name": "ScrapeCreators/social-media-research-skills",
+    "html_url": "https://github.com/ScrapeCreators/social-media-research-skills",
+    "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 7052
+  },
+  {
+    "full_name": "alchaincyf/darwin-skill",
+    "html_url": "https://github.com/alchaincyf/darwin-skill",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 7035
+  },
+  {
+    "full_name": "InternLM/MindSearch",
+    "html_url": "https://github.com/InternLM/MindSearch",
+    "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 6943
+  },
+  {
+    "full_name": "anysearch-ai/anysearch-skill",
+    "html_url": "https://github.com/anysearch-ai/anysearch-skill",
+    "description": "Unified real-time search engine skill for AI agents. Supports general web search, vertical domain search, parallel batch search, and full-page content extraction.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 6919
+  },
+  {
+    "full_name": "infobyte/faraday",
+    "html_url": "https://github.com/infobyte/faraday",
+    "description": "Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 6878
+  },
+  {
+    "full_name": "uditgoenka/autoresearch",
+    "html_url": "https://github.com/uditgoenka/autoresearch",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 6853
+  },
+  {
+    "full_name": "loopx-project/loopx",
+    "html_url": "https://github.com/loopx-project/loopx",
+    "description": "The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 6749
+  },
+  {
+    "full_name": "QingYunA/answer-me-with-html",
+    "html_url": "https://github.com/QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 6606
+  },
+  {
+    "full_name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "html_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 6540
+  },
+  {
+    "full_name": "jeinlee1991/chinese-llm-benchmark",
+    "html_url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
+    "description": "非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.6、ernie4.5、MiniMax-M2.7、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.1、MiMo-V2、LongCat、gemma4、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 6522
+  },
+  {
+    "full_name": "Jakubantalik/transitions.dev",
+    "html_url": "https://github.com/Jakubantalik/transitions.dev",
+    "description": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 6463
+  },
+  {
+    "full_name": "browser-act/skills",
+    "html_url": "https://github.com/browser-act/skills",
+    "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 6418
+  },
+  {
+    "full_name": "Q00/ouroboros",
+    "html_url": "https://github.com/Q00/ouroboros",
+    "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 6385
+  },
+  {
+    "full_name": "ikaijua/Awesome-AITools",
+    "html_url": "https://github.com/ikaijua/Awesome-AITools",
+    "description": "This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 6378
+  },
+  {
+    "full_name": "EverMind-AI/Raven",
+    "html_url": "https://github.com/EverMind-AI/Raven",
+    "description": "The Harness of Harnesses • Super Agent: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 6298
+  },
+  {
+    "full_name": "netease-youdao/LobsterAI",
+    "html_url": "https://github.com/netease-youdao/LobsterAI",
+    "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 6209
+  },
+  {
+    "full_name": "sergebulaev/linkedin-skills",
+    "html_url": "https://github.com/sergebulaev/linkedin-skills",
+    "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 6136
+  },
+  {
+    "full_name": "google-research/paper-orchestra",
+    "html_url": "https://github.com/google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 6004
+  },
+  {
+    "full_name": "conorbronsdon/avoid-ai-writing",
+    "html_url": "https://github.com/conorbronsdon/avoid-ai-writing",
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 6002
+  },
+  {
+    "full_name": "aiwaves-cn/agents",
+    "html_url": "https://github.com/aiwaves-cn/agents",
+    "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 5964
+  },
+  {
+    "full_name": "areal-project/AReaL",
+    "html_url": "https://github.com/areal-project/AReaL",
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 5928
+  },
+  {
+    "full_name": "Appllama/appllama-skills",
+    "html_url": "https://github.com/Appllama/appllama-skills",
+    "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
+    "topics": [
+      "claude-skills"
+    ],
+    "stargazers_count": 5634
+  },
+  {
+    "full_name": "ATH-MaaS/ComfyUI-Copilot",
+    "html_url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
+    "description": "An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 5589
+  },
+  {
+    "full_name": "iflytek/skillhub",
+    "html_url": "https://github.com/iflytek/skillhub",
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 5471
+  },
+  {
+    "full_name": "PenglongHuang/chinese-novelist-skill",
+    "html_url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+    "description": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 5462
+  },
+  {
+    "full_name": "camel-ai/oasis",
+    "html_url": "https://github.com/camel-ai/oasis",
+    "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. ",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 5449
+  },
+  {
+    "full_name": "campfirein/byterover-cli",
+    "html_url": "https://github.com/campfirein/byterover-cli",
+    "description": "ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 4944
+  },
+  {
+    "full_name": "pguso/ai-agents-from-scratch",
+    "html_url": "https://github.com/pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 4924
+  },
+  {
+    "full_name": "SolaceProducts/solace-agent-mesh",
+    "html_url": "https://github.com/SolaceProducts/solace-agent-mesh",
+    "description": "Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor, improve. Hosts your agents, runs their tools, and coordinates them over an event mesh, with sessions, artifacts, auth, evaluators, and observability built in.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 4922
+  },
+  {
+    "full_name": "0xNyk/council-of-high-intelligence",
+    "html_url": "https://github.com/0xNyk/council-of-high-intelligence",
+    "description": "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 4879
+  },
+  {
+    "full_name": "formkit/formkit",
+    "html_url": "https://github.com/formkit/formkit",
+    "description": "The form framework for coding agents",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 4785
+  },
+  {
+    "full_name": "JetBrains/koog",
+    "html_url": "https://github.com/JetBrains/koog",
+    "description": "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 4668
+  },
+  {
+    "full_name": "jiwoochris/artex-global",
+    "html_url": "https://github.com/jiwoochris/artex-global",
+    "description": "Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English default, switchable to Korean/Chinese/Spanish/Japanese. For authorized, defensive and detection use only. (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 4533
+  },
+  {
+    "full_name": "gptme/gptme",
+    "html_url": "https://github.com/gptme/gptme",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+    "topics": [
+      "autonomous-agents",
+      "llm-agent"
+    ],
+    "stargazers_count": 4492
+  },
+  {
+    "full_name": "Leonxlnx/unlazy",
+    "html_url": "https://github.com/Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 4456
+  },
+  {
+    "full_name": "isjiamu/gzh-design-skill",
+    "html_url": "https://github.com/isjiamu/gzh-design-skill",
+    "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 4447
+  },
+  {
+    "full_name": "langroid/langroid",
+    "html_url": "https://github.com/langroid/langroid",
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "topics": [
+      "llm-agent",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 4155
+  },
+  {
+    "full_name": "Paper2Poster/Paper2Poster",
+    "html_url": "https://github.com/Paper2Poster/Paper2Poster",
+    "description": "[NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 4055
+  },
+  {
+    "full_name": "XMuli/QtExamples",
+    "html_url": "https://github.com/XMuli/QtExamples",
+    "description": "Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt Creator；此为系列文章教程",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 4033
+  },
+  {
+    "full_name": "HolmesGPT/holmesgpt",
+    "html_url": "https://github.com/HolmesGPT/holmesgpt",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3958
+  },
+  {
+    "full_name": "Netw0rkNoob/VulnClaw",
+    "html_url": "https://github.com/Netw0rkNoob/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 3951
+  },
+  {
+    "full_name": "shroominic/codeinterpreter-api",
+    "html_url": "https://github.com/shroominic/codeinterpreter-api",
+    "description": "👾 Open source implementation of the ChatGPT Code Interpreter",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3837
+  },
+  {
+    "full_name": "THUDM/AgentBench",
+    "html_url": "https://github.com/THUDM/AgentBench",
+    "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3830
+  },
+  {
+    "full_name": "xiaobright/dsh-anchored-standard",
+    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3710
+  },
+  {
+    "full_name": "SeemSeam/claude_codex_bridge",
+    "html_url": "https://github.com/SeemSeam/claude_codex_bridge",
+    "description": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 3631
+  },
+  {
+    "full_name": "yilewang/llm-for-zotero",
+    "html_url": "https://github.com/yilewang/llm-for-zotero",
+    "description": "An open-source research agent system for your Zotero library.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3608
+  },
+  {
+    "full_name": "filipecalegario/awesome-generative-ai",
+    "html_url": "https://github.com/filipecalegario/awesome-generative-ai",
+    "description": "A curated list of Generative AI tools, works, models, and references",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3576
+  },
+  {
+    "full_name": "wang2122/sprix-sage-router",
+    "html_url": "https://github.com/wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 3563
+  },
+  {
+    "full_name": "samugit83/redamon",
+    "html_url": "https://github.com/samugit83/redamon",
+    "description": "Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it finds. MCP both ways: plug in any MCP server as a tool, or drive RedAmon from Claude Code or your own agent.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 3471
+  },
+  {
+    "full_name": "DSXiangLi/DecryptPrompt",
+    "html_url": "https://github.com/DSXiangLi/DecryptPrompt",
+    "description": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 3453
+  },
+  {
+    "full_name": "ANative-Lab/EvoAgentX",
+    "html_url": "https://github.com/ANative-Lab/EvoAgentX",
+    "description": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 3446
+  },
+  {
+    "full_name": "larashero3-dotcom/writing-dna-skill",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill",
+    "description": "写作蒸馏器.skill｜蒸馏复刻任意写作风格的 agent skill | Writing DNA Distiller - distill and recreate any writing style as an agent skill",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 3265
+  },
+  {
+    "full_name": "leo-lilinxiao/codex-autoresearch",
+    "html_url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 3261
+  },
+  {
+    "full_name": "MaxMiksa/Autonomous-Company",
+    "html_url": "https://github.com/MaxMiksa/Autonomous-Company",
+    "description": "An autonomous company working 24/7 on your own PC - Windows/Linux/macOS.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 3210
+  },
+  {
+    "full_name": "Nicolepcx/ai-agents-the-definitive-guide",
+    "html_url": "https://github.com/Nicolepcx/ai-agents-the-definitive-guide",
+    "description": "Repo for AI Agents The Definitive Guide",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 3023
+  },
+  {
+    "full_name": "oil-oil/oil-motion",
+    "html_url": "https://github.com/oil-oil/oil-motion",
+    "description": "Web animation skill for Claude Code & Codex. 帮你做跟着滚动和鼠标动的网页动画。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2954
+  },
+  {
+    "full_name": "liangdabiao/Seedance2-Storyboard-Generator",
+    "html_url": "https://github.com/liangdabiao/Seedance2-Storyboard-Generator",
+    "description": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2945
+  },
+  {
+    "full_name": "op7418/Claude-to-IM-skill",
+    "html_url": "https://github.com/op7418/Claude-to-IM-skill",
+    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2905
+  },
+  {
+    "full_name": "google/mantis",
+    "html_url": "https://github.com/google/mantis",
+    "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2815
+  },
+  {
+    "full_name": "MrGeDiao/shuorenhua",
+    "html_url": "https://github.com/MrGeDiao/shuorenhua",
+    "description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2741
+  },
+  {
+    "full_name": "wanikua/danghuangshang",
+    "html_url": "https://github.com/wanikua/danghuangshang",
+    "description": "Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 2721
+  },
+  {
+    "full_name": "genieincodebottle/generative-ai",
+    "html_url": "https://github.com/genieincodebottle/generative-ai",
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 2676
+  },
+  {
+    "full_name": "webfuse-com/awesome-autoresearch",
+    "html_url": "https://github.com/webfuse-com/awesome-autoresearch",
+    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 2603
+  },
+  {
+    "full_name": "Weizhena/Deep-Research-skills",
+    "html_url": "https://github.com/Weizhena/Deep-Research-skills",
+    "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 2594
+  },
+  {
+    "full_name": "N1nEmAn/sapper-v2",
+    "html_url": "https://github.com/N1nEmAn/sapper-v2",
+    "description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 2561
+  },
+  {
+    "full_name": "777genius/agent-teams-ai",
+    "html_url": "https://github.com/777genius/agent-teams-ai",
+    "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub/Kiro/Z.AI/Xiaomi/MiniMax/Kimi(300+ models, 200+ LLM providers, free models no auth) Build your AI company with multiple teams",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2531
+  },
+  {
+    "full_name": "ANative-Lab/Awesome-Self-Evolving-Agents",
+    "html_url": "https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents",
+    "description": "📖 A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2529
+  },
+  {
+    "full_name": "moazbuilds/CodeMachine-CLI",
+    "html_url": "https://github.com/moazbuilds/CodeMachine-CLI",
+    "description": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2517
+  },
+  {
+    "full_name": "andyrewlee/awesome-agent-orchestrators",
+    "html_url": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+    "description": "List of agent orchestrators",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2478
+  },
+  {
+    "full_name": "QoderAI/better-harness",
+    "html_url": "https://github.com/QoderAI/better-harness",
+    "description": "An open-source Harness Engineering platform for coding agents—define harnesses as code, run controlled experiments, inspect evidence, and compare outcomes. Turn task evidence into actionable team and organization insights.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2476
+  },
+  {
+    "full_name": "semanser/codel",
+    "html_url": "https://github.com/semanser/codel",
+    "description": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 2474
+  },
+  {
+    "full_name": "phronesis-io/eigenflux",
+    "html_url": "https://github.com/phronesis-io/eigenflux",
+    "description": "Official repository for EigenFlux — the open-source communication and broadcast network for AI agents.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2461
+  },
+  {
+    "full_name": "m969/EGamePlay",
+    "html_url": "https://github.com/m969/EGamePlay",
+    "description": "一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2409
+  },
+  {
+    "full_name": "AGI-Edgerunners/LLM-Agents-Papers",
+    "html_url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
+    "description": "A repo lists papers related to LLM based agent",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 2356
+  },
+  {
+    "full_name": "Kocoro-lab/Shannon",
+    "html_url": "https://github.com/Kocoro-lab/Shannon",
+    "description": "A production-oriented multi-agent orchestration framework.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2341
+  },
+  {
+    "full_name": "0Chencc/clawgod",
+    "html_url": "https://github.com/0Chencc/clawgod",
+    "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2335
+  },
+  {
+    "full_name": "guy-hartstein/company-research-agent",
+    "html_url": "https://github.com/guy-hartstein/company-research-agent",
+    "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages OpenRouter on the backend for rapid inference with any leading model.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2323
+  },
+  {
+    "full_name": "leemysw/yovoice",
+    "html_url": "https://github.com/leemysw/yovoice",
+    "description": "Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2289
+  },
+  {
+    "full_name": "4thfever/cultivation-world-simulator",
+    "html_url": "https://github.com/4thfever/cultivation-world-simulator",
+    "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. ",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 2156
+  },
+  {
+    "full_name": "lupantech/AgentFlow",
+    "html_url": "https://github.com/lupantech/AgentFlow",
+    "description": "AgentFlow: In-the-Flow Agentic System Optimization",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2098
+  },
+  {
+    "full_name": "nimbalyst/nimbalyst",
+    "html_url": "https://github.com/nimbalyst/nimbalyst",
+    "description": "Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2096
+  },
+  {
+    "full_name": "HaD0Yun/CozyClay",
+    "html_url": "https://github.com/HaD0Yun/CozyClay",
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 2095
+  },
+  {
+    "full_name": "hyperspaceai/agi",
+    "html_url": "https://github.com/hyperspaceai/agi",
+    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 2080
+  },
+  {
+    "full_name": "jundizhou/easy-stock",
+    "html_url": "https://github.com/jundizhou/easy-stock",
+    "description": "A股 AI 投研",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 2035
+  },
+  {
+    "full_name": "jim-schwoebel/awesome_ai_agents",
+    "html_url": "https://github.com/jim-schwoebel/awesome_ai_agents",
+    "description": "🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 2031
+  },
+  {
+    "full_name": "oil-oil/beautify-github-readme",
+    "html_url": "https://github.com/oil-oil/beautify-github-readme",
+    "description": "README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 2002
+  },
+  {
+    "full_name": "Besty0728/Unity-Skills",
+    "html_url": "https://github.com/Besty0728/Unity-Skills",
+    "description": "AI automation skills specifically designed for Unity",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1966
+  },
+  {
+    "full_name": "alexgreensh/anidoodle",
+    "html_url": "https://github.com/alexgreensh/anidoodle",
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1950
+  },
+  {
+    "full_name": "melih-unsal/DemoGPT",
+    "html_url": "https://github.com/melih-unsal/DemoGPT",
+    "description": "🤖 Create agentic apps in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1905
+  },
+  {
+    "full_name": "SqueezeAILab/LLMCompiler",
+    "html_url": "https://github.com/SqueezeAILab/LLMCompiler",
+    "description": "[ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1903
+  },
+  {
+    "full_name": "stakpak/agent",
+    "html_url": "https://github.com/stakpak/agent",
+    "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1886
+  },
+  {
+    "full_name": "Unclecheng-li/AI_Animation",
+    "html_url": "https://github.com/Unclecheng-li/AI_Animation",
+    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1838
+  },
+  {
+    "full_name": "mims-harvard/ToolUniverse",
+    "html_url": "https://github.com/mims-harvard/ToolUniverse",
+    "description": "Democratizing AI scientists with ToolUniverse",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1798
+  },
+  {
+    "full_name": "google/adk-java",
+    "html_url": "https://github.com/google/adk-java",
+    "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1779
+  },
+  {
+    "full_name": "liangdabiao/ecom-details-image",
+    "html_url": "https://github.com/liangdabiao/ecom-details-image",
+    "description": "一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 、Seedream 5.5 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1766
+  },
+  {
+    "full_name": "asinghcsu/AgenticRAG-Survey",
+    "html_url": "https://github.com/asinghcsu/AgenticRAG-Survey",
+    "description": "Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents. ",
+    "topics": [
+      "llm-agent",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1748
+  },
+  {
+    "full_name": "xingyaoww/code-act",
+    "html_url": "https://github.com/xingyaoww/code-act",
+    "description": "Official Repo for ICML 2024 paper \"Executable Code Actions Elicit Better LLM Agents\" by Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1724
+  },
+  {
+    "full_name": "kyegomez/awesome-multi-agent-papers",
+    "html_url": "https://github.com/kyegomez/awesome-multi-agent-papers",
+    "description": "A compilation of the best multi-agent papers",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1721
+  },
+  {
+    "full_name": "razzant/ouroboros",
+    "html_url": "https://github.com/razzant/ouroboros",
+    "description": "Ouroboros — self-creating AI agent. Born Feb 16, 2026.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1699
+  },
+  {
+    "full_name": "AgentEra/Agently",
+    "html_url": "https://github.com/AgentEra/Agently",
+    "description": "[GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *TriggerFlow* to manage complex GenAI working logic 🔀 Switch to any model without rewrite application code",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1673
+  },
+  {
+    "full_name": "HumanSignal/Adala",
+    "html_url": "https://github.com/HumanSignal/Adala",
+    "description": "Adala: Autonomous DAta (Labeling) Agent framework",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1650
+  },
+  {
+    "full_name": "fetchai/uAgents",
+    "html_url": "https://github.com/fetchai/uAgents",
+    "description": "A fast and lightweight framework for creating decentralized agents with ease.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1642
+  },
+  {
+    "full_name": "awslabs/cli-agent-orchestrator",
+    "html_url": "https://github.com/awslabs/cli-agent-orchestrator",
+    "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1638
+  },
+  {
+    "full_name": "WecoAI/aideml",
+    "html_url": "https://github.com/WecoAI/aideml",
+    "description": "AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1632
+  },
+  {
+    "full_name": "jina-ai/langchain-serve",
+    "html_url": "https://github.com/jina-ai/langchain-serve",
+    "description": "⚡ Langchain apps in production using Jina & FastAPI",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1629
+  },
+  {
+    "full_name": "Fenng/Tech-Doc-Style-Chinese",
+    "html_url": "https://github.com/Fenng/Tech-Doc-Style-Chinese",
+    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1606
+  },
+  {
+    "full_name": "najmuzzaman-mohammad/gawkbot",
+    "html_url": "https://github.com/najmuzzaman-mohammad/gawkbot",
+    "description": "open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1587
+  },
+  {
+    "full_name": "ray-r-ren/agent-apprenticeship",
+    "html_url": "https://github.com/ray-r-ren/agent-apprenticeship",
+    "description": "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1583
+  },
+  {
+    "full_name": "cookiy-ai/user-research-skill",
+    "html_url": "https://github.com/cookiy-ai/user-research-skill",
+    "description": "Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1575
+  },
+  {
+    "full_name": "fetchai/innovation-lab-examples",
+    "html_url": "https://github.com/fetchai/innovation-lab-examples",
+    "description": "80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A2A, LangChain, CrewAI, Gemini, Claude and OpenAI.",
+    "topics": [
+      "autonomous-agents",
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1555
+  },
+  {
+    "full_name": "hhyqhh/inno-agent",
+    "html_url": "https://github.com/hhyqhh/inno-agent",
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversation recall), a proactive scheduler, personal IM channels, and a workspace-scoped Practice Lab — built on the Pi SDK.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1553
+  },
+  {
+    "full_name": "Mirascope/mirascope",
+    "html_url": "https://github.com/Mirascope/mirascope",
+    "description": "The LLM Anti-Framework",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1535
+  },
+  {
+    "full_name": "alookai/alook",
+    "html_url": "https://github.com/alookai/alook",
+    "description": "Multi-Agent Collaboration for Team and Friends",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1532
+  },
+  {
+    "full_name": "dzhng/skills",
+    "html_url": "https://github.com/dzhng/skills",
+    "description": "Reusable AI agent skills for growing software farms: explore ideas, write specs, let agents build unattended, then curate what grew — weed, prune, and review. Works with Claude Code, Codex, and other skill-compatible agents.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1516
+  },
+  {
+    "full_name": "HeyChengC/vibe-knowledge-film",
+    "html_url": "https://github.com/HeyChengC/vibe-knowledge-film",
+    "description": "抖音爆款Vibe知识大赏知识短片skill，深度拆解爆款视频，复刻画风，导演分镜表，自动配音效，一键出片",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1507
+  },
+  {
+    "full_name": "vellum-ai/vellum-assistant",
+    "html_url": "https://github.com/vellum-ai/vellum-assistant",
+    "description": "An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1506
+  },
+  {
+    "full_name": "evo-hq/evo",
+    "html_url": "https://github.com/evo-hq/evo",
+    "description": "turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1502
+  },
+  {
+    "full_name": "ghostwright/phantom",
+    "html_url": "https://github.com/ghostwright/phantom",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+    "topics": [
+      "autonomous-agents"
+    ],
+    "stargazers_count": 1498
+  },
+  {
+    "full_name": "SanMuzZzZz/LuaN1aoAgent",
+    "html_url": "https://github.com/SanMuzZzZz/LuaN1aoAgent",
+    "description": "LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1494
+  },
+  {
+    "full_name": "google/adk-js",
+    "html_url": "https://github.com/google/adk-js",
+    "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1489
+  },
+  {
+    "full_name": "kaiban-ai/KaibanJS",
+    "html_url": "https://github.com/kaiban-ai/KaibanJS",
+    "description": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1486
+  },
+  {
+    "full_name": "atb033/multi_agent_path_planning",
+    "html_url": "https://github.com/atb033/multi_agent_path_planning",
+    "description": "Python implementation of a bunch of multi-robot path-planning algorithms.",
+    "topics": [
+      "multi-agent-systems"
+    ],
+    "stargazers_count": 1471
+  },
+  {
+    "full_name": "myshell-ai/AIlice",
+    "html_url": "https://github.com/myshell-ai/AIlice",
+    "description": "AIlice is a fully autonomous, general-purpose AI agent.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1420
+  },
+  {
+    "full_name": "bevibing/tutor-skills",
+    "html_url": "https://github.com/bevibing/tutor-skills",
+    "description": "A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1416
+  },
+  {
+    "full_name": "wuji-labs/nopua",
+    "html_url": "https://github.com/wuji-labs/nopua",
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1401
+  },
+  {
+    "full_name": "minsight-ai-info/AI-Search-Hub",
+    "html_url": "https://github.com/minsight-ai-info/AI-Search-Hub",
+    "description": "One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 Agent 与工作流，指定链接免费爬取",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1324
+  },
+  {
+    "full_name": "SaladDay/pi-from-scratch",
+    "html_url": "https://github.com/SaladDay/pi-from-scratch",
+    "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1315
+  },
+  {
+    "full_name": "ongridio/ongrid",
+    "html_url": "https://github.com/ongridio/ongrid",
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1294
+  },
+  {
+    "full_name": "op7418/guizang-material-illustration",
+    "html_url": "https://github.com/op7418/guizang-material-illustration",
+    "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+    "topics": [
+      "skill"
+    ],
+    "stargazers_count": 1272
+  },
+  {
+    "full_name": "larlarua/AutoCVE",
+    "html_url": "https://github.com/larlarua/AutoCVE",
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1236
+  },
+  {
+    "full_name": "ant-research/AntOmniEvo",
+    "html_url": "https://github.com/ant-research/AntOmniEvo",
+    "description": "An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1234
+  },
+  {
+    "full_name": "showlab/Awesome-GUI-Agent",
+    "html_url": "https://github.com/showlab/Awesome-GUI-Agent",
+    "description": "💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1222
+  },
+  {
+    "full_name": "Zen4-bit/Proxima",
+    "html_url": "https://github.com/Zen4-bit/Proxima",
+    "description": "Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1221
+  },
+  {
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "html_url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1143
+  },
+  {
+    "full_name": "Pan-Chera/Multi-Agent-CAD",
+    "html_url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1084
+  },
+  {
+    "full_name": "StreetLamb/tribe",
+    "html_url": "https://github.com/StreetLamb/tribe",
+    "description": "Low code tool to rapidly build and coordinate multi-agent teams",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 1083
+  },
+  {
+    "full_name": "mbzuai-oryx/groundingLMM",
+    "html_url": "https://github.com/mbzuai-oryx/groundingLMM",
+    "description": "[CVPR 2024 🔥] Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 970
+  },
+  {
+    "full_name": "oss-invisible/playwright_mcp",
+    "html_url": "https://github.com/oss-invisible/playwright_mcp",
+    "description": "invisible playwright mcp: Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 872
+  },
+  {
+    "full_name": "SakanaAI/doc-to-lora",
+    "html_url": "https://github.com/SakanaAI/doc-to-lora",
+    "description": "Hypernetworks that update LLMs to remember factual information",
+    "topics": [
+      "llm-agent"
+    ],
+    "stargazers_count": 846
+  }
+]
